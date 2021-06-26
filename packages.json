@@ -1,0 +1,18 @@
+[
+    {
+        "package": "afriadmin",
+        "url": "https://github.com/afrimapr/afriadmin"
+    },
+    {
+        "package": "afrilearndata",
+        "url": "https://github.com/afrimapr/afrilearndata"
+    },
+    {
+        "package": "afrihealthsites",
+        "url": "https://github.com/afrimapr/afrihealthsites"
+    },
+    {
+        "package": "africovid",
+        "url": "https://github.com/afrimapr/africovid"
+    }
+]
