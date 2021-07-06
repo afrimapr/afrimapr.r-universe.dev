@@ -8,6 +8,10 @@
         "url": "https://github.com/afrimapr/afrilearndata"
     },
     {
+        "package": "afrilearnr",
+        "url": "https://github.com/afrimapr/afrilearnr"
+    },    
+    {
         "package": "afrihealthsites",
         "url": "https://github.com/afrimapr/afrihealthsites"
     },
